@@ -1,0 +1,260 @@
+cord:
+cord cord cord electric_cord cord corduroy
+smile:
+smile smiling grin grinning
+rooster:
+cock rooster
+voyage:
+ocean_trip voyage voyage
+noon:
+noon twelve_noon high_noon midday noonday noontide
+string:
+string twine bowed_stringed_instrument string string string train string drawstring drawing_string string string string cosmic_string string chain string strand
+glass:
+glass glass drinking_glass glass glassful field_glass glass spyglass methamphetamine methamphetamine_hydrochloride Methedrine meth deoxyephedrine chalk chicken_feed crank glass ice shabu trash looking_glass glass glass
+magician:
+magician prestidigitator conjurer conjuror illusionist sorcerer magician wizard necromancer thaumaturge thaumaturgist
+monk:
+monk monastic Monk Thelonious_Monk Thelonious_Sphere_Monk
+slave:
+slave slave striver hard_worker slave
+coast:
+seashore coast seacoast sea-coast coast coast slide glide coast
+forest:
+forest wood woods forest woodland timberland timber
+shore:
+shore shore shoring
+woodland:
+forest woodland timberland timber
+monk:
+monk monastic Monk Thelonious_Monk Thelonious_Sphere_Monk
+oracle:
+prophet prophesier oracle seer vaticinator oracle oracle
+lad:
+chap fellow feller fella lad gent blighter cuss bloke cub lad laddie sonny sonny_boy
+wizard:
+ace adept champion sensation maven mavin virtuoso genius hotshot star superstar whiz whizz wizard wiz sorcerer magician wizard necromancer thaumaturge thaumaturgist
+forest:
+forest wood woods forest woodland timberland timber
+graveyard:
+cemetery graveyard burial_site burial_ground burying_ground memorial_park necropolis
+food:
+food nutrient food solid_food food food_for_thought intellectual_nourishment
+rooster:
+cock rooster
+cemetery:
+cemetery graveyard burial_site burial_ground burying_ground memorial_park necropolis
+woodland:
+forest woodland timberland timber
+coast:
+seashore coast seacoast sea-coast coast coast slide glide coast
+hill:
+hill mound hill Hill J._J._Hill James_Jerome_Hill Hill Benny_Hill Alfred_Hawthorne mound hill pitcher's_mound
+car:
+car auto automobile machine motorcar car railcar railway_car railroad_car car gondola car elevator_car cable_car car
+journey:
+journey journeying
+crane:
+Crane Stephen_Crane Crane Hart_Crane Harold_Hart_Crane Grus Crane crane crane
+implement:
+implement
+brother:
+brother blood_brother brother buddy brother chum crony pal sidekick brother comrade Brother
+lad:
+chap fellow feller fella lad gent blighter cuss bloke cub lad laddie sonny sonny_boy
+bird:
+bird bird fowl dame doll wench skirt chick bird boo hoot Bronx_cheer hiss raspberry razzing razz snort bird shuttlecock bird birdie shuttle
+crane:
+Crane Stephen_Crane Crane Hart_Crane Harold_Hart_Crane Grus Crane crane crane
+bird:
+bird bird fowl dame doll wench skirt chick bird boo hoot Bronx_cheer hiss raspberry razzing razz snort bird shuttlecock bird birdie shuttle
+cock:
+cock prick dick shaft pecker peter tool putz stopcock cock turncock hammer cock cock rooster cock
+food:
+food nutrient food solid_food food food_for_thought intellectual_nourishment
+fruit:
+fruit yield fruit fruit
+brother:
+brother blood_brother brother buddy brother chum crony pal sidekick brother comrade Brother
+monk:
+monk monastic Monk Thelonious_Monk Thelonious_Sphere_Monk
+asylum:
+refuge sanctuary asylum mental_hospital psychiatric_hospital mental_institution institution mental_home insane_asylum asylum
+madhouse:
+Bedlam booby_hatch crazy_house cuckoo's_nest funny_farm funny_house loony_bin madhouse nut_house nuthouse sanatorium snake_pit
+furnace:
+furnace
+stove:
+stove kitchen_stove range kitchen_range cooking_stove stove
+magician:
+magician prestidigitator conjurer conjuror illusionist sorcerer magician wizard necromancer thaumaturge thaumaturgist
+wizard:
+ace adept champion sensation maven mavin virtuoso genius hotshot star superstar whiz whizz wizard wiz sorcerer magician wizard necromancer thaumaturge thaumaturgist
+journey:
+journey journeying
+voyage:
+ocean_trip voyage voyage
+coast:
+seashore coast seacoast sea-coast coast coast slide glide coast
+shore:
+shore shore shoring
+implement:
+implement
+tool:
+tool instrument tool creature tool puppet cock prick dick shaft pecker peter tool putz
+boy:
+male_child boy boy son boy boy
+lad:
+chap fellow feller fella lad gent blighter cuss bloke cub lad laddie sonny sonny_boy
+automobile:
+car auto automobile machine motorcar
+car:
+car auto automobile machine motorcar car railcar railway_car railroad_car car gondola car elevator_car cable_car car
+midday:
+noon twelve_noon high_noon midday noonday noontide
+noon:
+noon twelve_noon high_noon midday noonday noontide
+gem:
+gem treasure gem gemstone stone jewel gem muffin gem jewel gem precious_stone
+jewel:
+jewel gem precious_stone jewel gem
+fruit:
+fruit yield fruit fruit
+furnace:
+furnace
+autograph:
+autograph autograph John_Hancock
+shore:
+shore shore shoring
+automobile:
+car auto automobile machine motorcar
+wizard:
+ace adept champion sensation maven mavin virtuoso genius hotshot star superstar whiz whizz wizard wiz sorcerer magician wizard necromancer thaumaturge thaumaturgist
+mound:
+mound hill pitcher's_mound knoll mound hillock hummock hammock pile heap mound agglomerate cumulation cumulus mound hill pitcher mound
+stove:
+stove kitchen_stove range kitchen_range cooking_stove stove
+grin:
+smile smiling grin grinning
+implement:
+implement
+asylum:
+refuge sanctuary asylum mental_hospital psychiatric_hospital mental_institution institution mental_home insane_asylum asylum
+fruit:
+fruit yield fruit fruit
+asylum:
+refuge sanctuary asylum mental_hospital psychiatric_hospital mental_institution institution mental_home insane_asylum asylum
+monk:
+monk monastic Monk Thelonious_Monk Thelonious_Sphere_Monk
+graveyard:
+cemetery graveyard burial_site burial_ground burying_ground memorial_park necropolis
+madhouse:
+Bedlam booby_hatch crazy_house cuckoo's_nest funny_farm funny_house loony_bin madhouse nut_house nuthouse sanatorium snake_pit
+boy:
+male_child boy boy son boy boy
+rooster:
+cock rooster
+cushion:
+shock_absorber shock cushion cushion cushion
+jewel:
+jewel gem precious_stone jewel gem
+asylum:
+refuge sanctuary asylum mental_hospital psychiatric_hospital mental_institution institution mental_home insane_asylum asylum
+cemetery:
+cemetery graveyard burial_site burial_ground burying_ground memorial_park necropolis
+grin:
+smile smiling grin grinning
+lad:
+chap fellow feller fella lad gent blighter cuss bloke cub lad laddie sonny sonny_boy
+boy:
+male_child boy boy son boy boy
+sage:
+sage sage sage salvia
+automobile:
+car auto automobile machine motorcar
+cushion:
+shock_absorber shock cushion cushion cushion
+mound:
+mound hill pitcher's_mound knoll mound hillock hummock hammock pile heap mound agglomerate cumulation cumulus mound hill pitcher mound
+shore:
+shore shore shoring
+shore:
+shore shore shoring
+voyage:
+ocean_trip voyage voyage
+bird:
+bird bird fowl dame doll wench skirt chick bird boo hoot Bronx_cheer hiss raspberry razzing razz snort bird shuttlecock bird birdie shuttle
+woodland:
+forest woodland timberland timber
+furnace:
+furnace
+implement:
+implement
+crane:
+Crane Stephen_Crane Crane Hart_Crane Harold_Hart_Crane Grus Crane crane crane
+rooster:
+cock rooster
+hill:
+hill mound hill Hill J._J._Hill James_Jerome_Hill Hill Benny_Hill Alfred_Hawthorne mound hill pitcher's_mound
+woodland:
+forest woodland timberland timber
+cemetery:
+cemetery graveyard burial_site burial_ground burying_ground memorial_park necropolis
+mound:
+mound hill pitcher's_mound knoll mound hillock hummock hammock pile heap mound agglomerate cumulation cumulus mound hill pitcher mound
+glass:
+glass glass drinking_glass glass glassful field_glass glass spyglass methamphetamine methamphetamine_hydrochloride Methedrine meth deoxyephedrine chalk chicken_feed crank glass ice shabu trash looking_glass glass glass
+jewel:
+jewel gem precious_stone jewel gem
+magician:
+magician prestidigitator conjurer conjuror illusionist sorcerer magician wizard necromancer thaumaturge thaumaturgist
+oracle:
+prophet prophesier oracle seer vaticinator oracle oracle
+sage:
+sage sage sage salvia
+wizard:
+ace adept champion sensation maven mavin virtuoso genius hotshot star superstar whiz whizz wizard wiz sorcerer magician wizard necromancer thaumaturge thaumaturgist
+oracle:
+prophet prophesier oracle seer vaticinator oracle oracle
+sage:
+sage sage sage salvia
+hill:
+hill mound hill Hill J._J._Hill James_Jerome_Hill Hill Benny_Hill Alfred_Hawthorne mound hill pitcher's_mound
+mound:
+mound hill pitcher's_mound knoll mound hillock hummock hammock pile heap mound agglomerate cumulation cumulus mound hill pitcher mound
+cord:
+cord cord cord electric_cord cord corduroy
+string:
+string twine bowed_stringed_instrument string string string train string drawstring drawing_string string string string cosmic_string string chain string strand
+glass:
+glass glass drinking_glass glass glassful field_glass glass spyglass methamphetamine methamphetamine_hydrochloride Methedrine meth deoxyephedrine chalk chicken_feed crank glass ice shabu trash looking_glass glass glass
+tumbler:
+tumbler tumbler tumbler roller tumbler tumbler_pigeon
+grin:
+smile smiling grin grinning
+smile:
+smile smiling grin grinning
+serf:
+serf helot villein
+slave:
+slave slave striver hard_worker slave
+autograph:
+autograph autograph John_Hancock
+signature:
+signature touch signature signature signature_tune theme_song key_signature signature signature
+forest:
+forest wood woods forest woodland timberland timber
+woodland:
+forest woodland timberland timber
+cock:
+cock prick dick shaft pecker peter tool putz stopcock cock turncock hammer cock cock rooster cock
+rooster:
+cock rooster
+cushion:
+shock_absorber shock cushion cushion cushion
+pillow:
+pillow
+cemetery:
+cemetery graveyard burial_site burial_ground burying_ground memorial_park necropolis
+graveyard:
+cemetery graveyard burial_site burial_ground burying_ground memorial_park necropolis
